@@ -1,4 +1,4 @@
 # octocat
-my personal repositor.
+my personal repository.
 
 I'm currently an engineering student
